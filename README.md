@@ -12,7 +12,7 @@ In project folder
 + [localhost:3000](localhost:3000) open from browser   
 
 ## Configure
-Change the file full path in `server.js`
+Check the your file full path in `server.js`
 ```js
-var file_path = "/your-directory/real-time/index.html";
+var file_path = "/index.html";
 ```
